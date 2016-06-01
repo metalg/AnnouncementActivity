@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnouncementActivity.iml" filepath="$PROJECT_DIR$/AnnouncementActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnnouncementControllerCommon/AnnouncementControllerCommon.iml" filepath="$PROJECT_DIR$/AnnouncementControllerCommon/AnnouncementControllerCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnnouncementControllerService/AnnouncementControllerService.iml" filepath="$PROJECT_DIR$/AnnouncementControllerService/AnnouncementControllerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoAnnouncementActivity/VideoAnnouncementActivity.iml" filepath="$PROJECT_DIR$/VideoAnnouncementActivity/VideoAnnouncementActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnnouncementControllerCommon/announcementcontroller.iml" filepath="$PROJECT_DIR$/AnnouncementControllerCommon/announcementcontroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoAnnouncementActivity/app.iml" filepath="$PROJECT_DIR$/VideoAnnouncementActivity/app.iml" />
+    </modules>
+  </component>
+</project>
